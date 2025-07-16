@@ -181,14 +181,13 @@ main {
   padding: 20px;
   border-radius: 10px;
   border: none;
-  font-size: 16px;
   color: #1a1414;
   font-weight: bold;
   box-shadow: 1px 1px 10px rgb(207, 171, 135);
 }
-.imgg {
+/* .imgg {
   margin: 20px;
-}
+} */
 .footer-btn {
   margin-top: 10px;
 }
